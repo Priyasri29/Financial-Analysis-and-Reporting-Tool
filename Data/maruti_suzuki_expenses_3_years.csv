@@ -1,0 +1,37 @@
+Date,Expense Category,Expense Amount,Department,Cost Center,Vendor,Cost of Goods Sold (COGS),Operating Expenses
+31-01-2021,Marketing,40332.92,HR,Distribution,Vendor C,34306.75,53692.98
+28-02-2021,Maintenance,13985.32,IT,Customer Service,Vendor C,49631.57,32066.99
+31-03-2021,Utilities,28140.55,HR,R&D,Vendor A,75524.01,47938.35
+30-04-2021,Maintenance,31658.66,Sales,R&D,Vendor C,126341.92,48011.78
+31-05-2021,Maintenance,7090.27,Finance,Manufacturing,Vendor C,131894.98,42146.48
+30-06-2021,Rent,32339.52,Finance,R&D,Vendor A,20903.78,15417.39
+31-07-2021,Utilities,12673.59,Finance,Manufacturing,Vendor D,86397.15,60118.15
+31-08-2021,Utilities,7927.32,IT,R&D,Vendor A,74263.43,29246.8
+30-09-2021,Utilities,47699.85,Sales,Customer Service,Vendor D,48874.02,21191.11
+31-10-2021,Maintenance,48453.44,IT,R&D,Vendor C,35582.5,12446.51
+30-11-2021,Marketing,41377.88,IT,Manufacturing,Vendor C,63889.97,45453.58
+31-12-2021,Utilities,18707.62,Sales,Manufacturing,Vendor C,142578.26,50653.86
+31-01-2022,Insurance,9395.25,Sales,Customer Service,Vendor B,62016.38,10995.27
+28-02-2022,Maintenance,35790.49,Sales,R&D,Vendor D,87442.78,40725.58
+31-03-2022,Rent,24806.86,Sales,R&D,Vendor B,111392.46,23589.75
+30-04-2022,Marketing,10491.72,Finance,Customer Service,Vendor B,67271.85,48710.37
+31-05-2022,Insurance,27282.96,Operations,R&D,Vendor A,146331.67,20461.99
+30-06-2022,Insurance,6547.48,Operations,R&D,Vendor B,145118.15,51456.26
+31-07-2022,Rent,45919.42,Sales,Manufacturing,Vendor A,52731.7,33204.12
+31-08-2022,Marketing,16645.1,Operations,R&D,Vendor A,84642.31,66203.8
+30-09-2022,Maintenance,34813.5,Operations,R&D,Vendor B,59114.18,18251.26
+31-10-2022,Salaries,19027,Sales,Customer Service,Vendor D,57029.26,30463.98
+30-11-2022,Marketing,28403.06,Operations,Customer Service,Vendor D,24795.3,16808.41
+31-12-2022,Rent,29601.96,IT,Distribution,Vendor D,99243.36,65481.62
+31-01-2023,Insurance,13318.45,HR,Manufacturing,Vendor D,85348.27,62640.36
+28-02-2023,Maintenance,48631.31,HR,R&D,Vendor D,26692.24,25476.5
+31-03-2023,Marketing,39880.98,Sales,R&D,Vendor B,56224.04,49599.04
+30-04-2023,Salaries,47277.45,Finance,Distribution,Vendor B,138074.57,59033.33
+31-05-2023,Salaries,45267.23,Sales,R&D,Vendor C,51143.05,43312.05
+30-06-2023,Utilities,31905.5,Finance,Manufacturing,Vendor D,38836.33,41779.03
+31-07-2023,Utilities,46484.34,HR,Distribution,Vendor B,83628.86,24511.14
+31-08-2023,Rent,8982.16,Sales,Manufacturing,Vendor C,148134.56,15586.17
+30-09-2023,Marketing,13819.23,Customer Service,Distribution,Vendor D,51467.19,63832.95
+31-10-2023,Marketing,7035.23,IT,Distribution,Vendor A,107377.62,64025.08
+30-11-2023,Insurance,19639.86,Operations,Customer Service,Vendor C,119010.55,47986.09
+31-12-2023,Insurance,22490.48,Finance,Manufacturing,Vendor B,50892.88,30341.79
